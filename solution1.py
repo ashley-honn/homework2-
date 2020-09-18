@@ -1,4 +1,4 @@
-# solutions
+# Solutions
 
 ##This is for Solution 1
 
